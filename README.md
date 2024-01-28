@@ -1,6 +1,8 @@
+
+https://github.com/opera-gaming/gxmods/assets/157972291/5e7d884b-d0dd-4df8-9973-d4bdaa139d9c
 # What are Opera GX Mods?
 
-![GXMods](images/gxmods.png)
+![GXMods](Uploading shadows-army-solo-leveling.1920x1080.mp4…)
 
 GX Mods are a collection of customizations that allow users to create unique browsing experiences within Opera GX. With GX Mods, users can modify the browser's appearance, sounds, music, theme, wallpaper and even web content using web modding and shaders.
 
